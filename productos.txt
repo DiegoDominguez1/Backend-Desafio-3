@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Camiseta Argentina",
+        "price": 30000,
+        "thumbnail": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-mundial-qatar-2022-argentina-1.jpg",
+        "id": 1
+    },
+    {
+        "title": "Camiseta Brasil",
+        "price": 25000,
+        "thumbnail":"https://todosobrecamisetas.com/wp-content/uploads/camisetas-nike-brasil-2022-3.jpg",
+        "id": 2
+    },
+    {
+        "title": "Camiseta España",
+        "price": 20000,
+        "thumbnail": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-adidas-espana-2022-1.jpg",
+        "id": 3
+    }  
+]
